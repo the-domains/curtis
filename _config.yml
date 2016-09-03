@@ -1,23 +1,24 @@
-name: curtis
-favicon: null
-layout_spectrum: 0.28997062402777374
 typography_spectrum: 0.05644054710865021
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors: []
   brandStrength: 0.6835229094140232
   lightness: 0.2908038296736777
   saturation: 0.3473348345141858
   rhythmicContrast: 0.419643480097875
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.28997062402777374
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: curtis
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Curtis L. Strite
 purpose: []
